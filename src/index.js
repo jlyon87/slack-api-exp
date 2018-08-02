@@ -4,7 +4,7 @@ const config = require('../config/slack.config')
 const Slack = require('slack-api').promisify()
 
 // console.log(Slack)
-console.log('config', config)
+// console.log('config', config)
 
 Slack.auth.test({ token: config.client_id })
   .then(data => {
