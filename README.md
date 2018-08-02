@@ -1,6 +1,6 @@
 # slack-api-exp
 
-> Experimenting with the slack-api module.
+> Experimenting with the [slack-api](https://www.npmjs.com/package/slack-api) module.
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 
