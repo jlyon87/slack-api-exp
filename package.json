@@ -1,0 +1,27 @@
+{
+  "name": "slack-api-exp",
+  "version": "1.0.0",
+  "description": "> Experimenting with the slack-api module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlyon87/slack-api-exp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlyon87/slack-api-exp/issues"
+  },
+  "homepage": "https://github.com/jlyon87/slack-api-exp#readme",
+  "dependencies": {
+    "slack-api": "^0.1.14"
+  },
+  "devDependencies": {
+    "eslint-plugin-html": "^4.0.5",
+    "standard": "^11.0.1"
+  }
+}
